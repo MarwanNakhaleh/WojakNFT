@@ -10,3 +10,6 @@ artifacts
 
 # Winston
 logs/
+
+# Mac OS
+.DS_Store
