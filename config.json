@@ -1,0 +1,37 @@
+{
+  "metaData": {
+    "name": "Wojak",
+    "description": "Wojak NFT",
+    "splitFiles": true
+  },
+  "useCustomNames": 0,
+  "deleteDuplicates": true,
+  "generateMetadata": true,
+  "basePath": "/Users/marwan/Documents/Web3/NFT14/images/",
+  "outputPath": "/Users/marwan/Documents/Web3/NFT14/output/",
+  "imageUrl": "changeme/",
+  "order": [
+    1,
+    0
+  ],
+  "weights": {
+    "Base NFT Template.png": 1667,
+    "Wojak Black Moustache.png": 1667,
+    "Wojak Bling Glasses.png": 1667,
+    "Wojak Hearts.png": 1667,
+    "Wojak Red Eyebrows.png": 1667,
+    "Wojak Red Hat.png": 1667,
+    "Black.png": 833,
+    "Gray 1.png": 833,
+    "Gray 2.png": 833,
+    "Gray 3.png": 833,
+    "Gray 4.png": 833,
+    "Orange.png": 833,
+    "Pink Tesla.png": 833,
+    "Pink.png": 833,
+    "Purple.png": 833,
+    "Red.png": 833,
+    "White.png": 833,
+    "Yellow.png": 833
+  }
+}
