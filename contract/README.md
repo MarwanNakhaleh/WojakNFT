@@ -1,5 +1,7 @@
 # NFT minter
 
+One important non-gimmicky use case for NFTs is membership or access passes.
+
 I went through the first cohort of [NFT14](https://nft14.xyz) to learn basic NFT creation and transfer at a high level. I used [Canva](https://canva.com) to create the backgrounds and accessories for the Wojak NFT.
 
 Next, I used a tool called [nft-art-generator](https://github.com/NotLuksus/nft-art-generator) to create the composite images and necessary NFT metadata from all the different backgrounds and accessories. I then uploaded those assets to [Pinata](https://app.pinata.cloud) to have access to them from decentralized cloud storage.
